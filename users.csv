@@ -1,0 +1,8 @@
+pid,pcat,pname,psize,pstock,pprice,pcost
+101,shoes,lether shoes,6,255,1599,1200
+102,sandels,block heels,7,135,99,750
+103,sandels,high heels,6,250,899,750
+104,sandels,low heels,7,100,1500,1000
+105,slippers,casual,8,1150,699,500
+106,slippers,fancy,6,300,899,600
+107,shoes,running,6,300,1200,900
